@@ -1,11 +1,11 @@
-Cwelium - An Open Source Project
+Syembuk - An Open Source Project
 
-Cwelium is licensed under the GNU Affero General Public License (AGPL) v3.0 with the following additional term:
+Syembuk is licensed under the GNU Affero General Public License (AGPL) v3.0 with the following additional term:
 
 Additional Terms:
-- The repository owner must comply with the original author's (defined as the owner of the GitHub repository 'https://github.com/Tips-Discord/Cwelium') request to delete any repository, including videos, containing modified or unmodified versions of the software within 14 days.
+- The repository owner must comply with the original author's (defined as the owner of the GitHub repository 'https://github.com/Syembuk-Raider/Syembuk') request to delete any repository, including videos, containing modified or unmodified versions of the software within 14 days.
 
-- Users are only permitted to fork the original repository 'https://github.com/Tips-Discord/Cwelium'. Creating new repositories containing the software, whether modified or unmodified, is prohibited.
+- Users are only permitted to fork the original repository 'https://github.com/Syembuk-Raider/Syembuk'. Creating new repositories containing the software, whether modified or unmodified, is prohibited.
 
 - The software cannot be made closed source. All forks and modifications must retain their open-source status under the AGPL v3.0 license.
 
